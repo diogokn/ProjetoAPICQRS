@@ -5,6 +5,7 @@ CQRS, Command Query Responsability Segregration
 <br>
 Separar as responsibilidade de escrita e leitura de dados.
 <br>
+Utilizado para ambiente e cenário que possuem grande quantidade de transações e consultas.
 <br>
 Command: responsabilidades por comandos de inputs.
 <br>
