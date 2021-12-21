@@ -8,7 +8,6 @@ Command: responsabilidades por comandos de inputs.
 Pode ser orquestrado por eventos.
 <br>
 <br>
-Query: simplificar a leitura do banco/cache.
+Query: estratégia para a leitura do banco/cache.
 <br>
 <br>
-Estratégia de configuração e arquitetura para gravação e leitura.
