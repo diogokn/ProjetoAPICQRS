@@ -10,4 +10,5 @@ Pode ser orquestrado por eventos.
 <br>
 Query: simplificar a leitura do banco/cache.
 <br>
+<br>
 Estratégia de configuração e arquitetura para gravação e leitura.
